@@ -1,5 +1,6 @@
 Replicate Spark
 
+```
 Server/
 ├── driver/
 │   ├── JobManager.java         # Master node that manages job execution
@@ -19,3 +20,4 @@ Server/
 
 Client/
 ├── client.py    # receives client interface to process
+```
